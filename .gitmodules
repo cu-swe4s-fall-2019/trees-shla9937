@@ -1,0 +1,9 @@
+[submodule "hash-tables-shla9937"]
+	path = hash-tables-shla9937
+	url = https://github.com/cu-swe4s-fall-2019/hash-tables-shla9937.git
+[submodule "avl_tree"]
+	path = avl_tree
+	url = https://github.com/swe4s/avl_tree.git
+[submodule "hash_tables_shla9937"]
+	path = hash_tables_shla9937
+	url = https://github.com/cu-swe4s-fall-2019/hash_tables_shla9937.git
