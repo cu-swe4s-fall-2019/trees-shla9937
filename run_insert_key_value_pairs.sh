@@ -1,0 +1,1 @@
+python insert_key_value_pairs.py --structure hash --input_file sorted.txt --num_keys 10000
